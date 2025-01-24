@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about coding and love exploring new
 - 🌱 I’m currently learning advanced algorithms and data structures.
 - 👯 I’m looking to collaborate on interesting open-source projects.
 - 💬 Ask me about Python, JavaScript, and web development.
-- 📫 How to reach me: [Email](mailto:groxw@example.com)
+- 📫 How to reach me: [Email](mailto:soesilo32@gmail.com)
 - ⚡ Fun fact: I enjoy hiking and photography in my free time.
 
 ## 🛠️ Languages and Tools
@@ -24,11 +24,9 @@ Welcome to my GitHub profile! I'm passionate about coding and love exploring new
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## 📈 GitHub Stats
 
-![groxw's GitHub stats](https://github-readme-stats.vercel.app/api?username=groxw&show_icons=true&hide_border=true)
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/groxw](https://www.linkedin.com/in/gatot-susilo-3b60a0105/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/gatot-susilo-3b60a0105/)&nbsp;
 [![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/groxw)&nbsp;
