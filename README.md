@@ -29,4 +29,3 @@ Welcome to my GitHub profile! I'm passionate about coding and love exploring new
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin)](https://www.linkedin.com/in/gatot-susilo-3b60a0105/)&nbsp;
-[![Twitter](https://img.shields.io/badge/-Twitter-05122A?style=flat&logo=twitter)](https://twitter.com/groxw)&nbsp;
