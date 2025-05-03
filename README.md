@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm passionate about coding and love exploring new
 - 👯 I’m looking to collaborate on interesting open-source projects.
 - 💬 Ask me about Python, JavaScript, and web development.
 - 📫 How to reach me: [Email](mailto:soesilo32@gmail.com)
-- ⚡ Fun fact: I enjoy hiking and photography in my free time.
 
 ## 🛠️ Languages and Tools
 
